@@ -37,7 +37,7 @@ The sentiment in text can be measured by two scales: the sentiment from negative
 1 - Four word embedding models of size :
 	Arabic Tweets : 9 million words  (models/model_TW_AR/modelAR_newData_skip_gram)
 	English Tweets : 5 million words  (models/model_TW_EN/modelEN_newData_skip_gram)
-  English Book Reviews : 2.5 million words  (models/model_BR_EN/modelEN_newData_skip_gram)
+        English Book Reviews : 2.5 million words  (models/model_BR_EN/modelEN_newData_skip_gram)
 	French Tweets : 415 thousand words  (models/model_TW_FR/modelFR_newData_skip_gram)
   
 ```
@@ -45,7 +45,7 @@ The sentiment in text can be measured by two scales: the sentiment from negative
 2 - Four sets of seed-words lists :
 	Arabic Tweets : pos_TW_AR and neg_TW_AR
 	English Tweets : pos_TW_EN and neg_TW_EN
-  English Book Reviews : pos_BR_EN and neg_BR_EN
+        English Book Reviews : pos_BR_EN and neg_BR_EN
 	French Tweets : pos_TW_FR and neg_TW_FR
   
 ```
