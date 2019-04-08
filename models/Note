@@ -1,4 +1,6 @@
-The 3 models for tweets are zipped, and can be downladed from : https://cloud.lsis.org/index.php/s/GPVdB0Yc7afoZHp
+The 4 models are zipped, and can be downladed from : 
+https://cloud.lsis.org/index.php/s/GPVdB0Yc7afoZHp
+https://cloud.lsis.org/index.php/s/WQSnKaVTyJWOoR3
 
 To unzip each into its folder: 
 tar -xvzf AR.tar.gz model_TW_AR/
