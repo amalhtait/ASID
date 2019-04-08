@@ -4,3 +4,4 @@ To unzip each into its folder:
 tar -xvzf AR.tar.gz model_TW_AR/
 tar -xvzf FR.tar.gz model_TW_FR/
 tar -xvzf EN.tar.gz model_TW_EN/
+tar -xvzf Book_EN.tar.gz model_BR_EN/
