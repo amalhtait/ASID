@@ -10,6 +10,9 @@ The "Adapted Sentiment Intensity Detector" is a tool to detect or predict sentim
 **Developer** <br />	
 Amal Htait <br />
 Ph.D. Candidate, Marseilles, France. <br />
+LIS UMR 7020 CNRS <br />
+CLEO - OpenEdition Lab <br />
+
 
 
 **Citation** <br />
