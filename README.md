@@ -17,13 +17,21 @@ OpenEdition Lab <br />
 
 **Citation** <br />
 ```	
-If using this tool or its word embedding models, please cite our work using : 
+If using this tool or its word embedding models, please cite our work using one of the following: 
 		@inproceedings{htait19, 
-  		title={Sentiment Analysis and Sentence Classification in Long Book-Search Queries}, 
-  		author={Htait, Amal  and Fournier, Sebastien and Bellot, Patrice}, 
-  		booktitle={20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing)}, 
-  		year={2019} 
+  		  title={Sentiment Analysis and Sentence Classification in Long Book-Search Queries}, 
+  		  author={Htait, Amal  and Fournier, S{\'e}bastien and Bellot, Patrice}, 
+  		  booktitle={20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing)}, 
+  		  year={2019} 
 		} 
+		
+		@inproceedings{htait2020using,
+		  title={Using sentiment analysis for pseudo-relevance feedback in social book search},
+		  author={Htait, Amal and Fournier, S{\'e}bastien and Bellot, Patrice and Azzopardi, Leif and Pasi, Gabriella},
+		  booktitle={Proceedings of the 2020 ACM SIGIR on International Conference on Theory of Information Retrieval},
+		  pages={29--32},
+		  year={2020}
+		}
 ```
 
 **Acknowledgments** <br />
